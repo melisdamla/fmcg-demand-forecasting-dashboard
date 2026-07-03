@@ -1,0 +1,1 @@
+"""FMCG forecasting backend package."""
