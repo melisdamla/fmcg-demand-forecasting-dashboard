@@ -33,19 +33,12 @@ Demand can change quickly due to promotions, holidays, weather, seasonality, reg
 
 ## Screenshots
 
-<img width="1362" height="907" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/013b568e-5ad9-48f4-87ba-909c49ad706f" />
-
-<img width="1362" height="907" alt="Forecasting Screenshot" src="https://github.com/user-attachments/assets/42d25bfb-b095-43ef-b797-2c4cd8952df2" />
-
-<img width="1362" height="907" alt="Inventory Screenshot" src="https://github.com/user-attachments/assets/be0562d6-2afa-4c95-8481-78748eb09c2f" />
-
-<img width="1362" height="907" alt="Business Insights Screenshot" src="https://github.com/user-attachments/assets/779c9267-0eef-4c43-bbe8-1be1158ce457" />
-
-<img width="1362" height="907" alt="Analytics Screenshot" src="https://github.com/user-attachments/assets/dc15246b-b01f-4101-991a-289f5d20f414" />
-
-<img width="1362" height="907" alt="Data Upload Screenshot" src="https://github.com/user-attachments/assets/01813f0a-1844-409e-b324-0acdde83e29c" />
-
-<img width="1362" height="907" alt="Alerts Screenshot" src="https://github.com/user-attachments/assets/62a13475-cafc-430b-8eae-dc6f8b0bbcfc" />
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 47 00" src="https://github.com/user-attachments/assets/f437907b-8051-4397-81a6-3d873b036002" />
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 48 24" src="https://github.com/user-attachments/assets/3863f0b6-80f0-46a2-a20d-489c34a231bd" />
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 48 14" src="https://github.com/user-attachments/assets/00a0842d-2291-42bd-8700-c00d90ece9f5" />
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 48 04" src="https://github.com/user-attachments/assets/74e305fe-b8e7-46eb-99a3-a83664aa7e9f" />
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 49 34" src="https://github.com/user-attachments/assets/94766dd6-ee2e-40d1-b25f-4018da8b2e5b" />
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 46 52" src="https://github.com/user-attachments/assets/5b0b7053-b9db-4365-a085-76a861fb2000" />
 
 ---
 
