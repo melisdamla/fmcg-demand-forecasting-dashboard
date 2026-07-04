@@ -19,6 +19,39 @@ Demand can change quickly due to promotions, holidays, weather, seasonality, reg
 
 ---
 
+## Screenshots
+
+### Executive Dashboard
+
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 54 57" src="https://github.com/user-attachments/assets/7252c284-b2b2-452c-9ad3-24dc28eb49b8" />
+
+### Data Upload & Quality Checks
+
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 55 20" src="https://github.com/user-attachments/assets/d40dd822-0a53-4178-9daf-a63affac5a18" />
+
+### Demand Forecasting
+
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 56 16" src="https://github.com/user-attachments/assets/ddced5da-4eec-420c-a29f-7d22c2881f08" />
+
+### Inventory Optimization
+
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 56 49" src="https://github.com/user-attachments/assets/6d31360e-490f-4240-8323-04d275270852" />
+
+### Inventory
+
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 57 27" src="https://github.com/user-attachments/assets/4fdd1722-0e02-496c-8ed6-e85a4f8c6b8b" />
+
+### Business Insights
+
+<img width="1716" height="872" alt="Screenshot 2026-07-04 at 12 58 05" src="https://github.com/user-attachments/assets/bd039c7c-0376-4a4d-ae27-f3430521a622" />
+
+
+### Operational Alerts
+
+<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 59 25" src="https://github.com/user-attachments/assets/5346ea23-20f5-47f2-af97-229900f7beb9" />
+
+---
+
 ## Key Highlights
 
 * Built an end-to-end full-stack analytics dashboard with React, TypeScript, Tailwind CSS, FastAPI, and SQLite.
@@ -28,17 +61,6 @@ Demand can change quickly due to promotions, holidays, weather, seasonality, reg
 * Added business insight modules for promotion impact, category performance, weather effects, holiday uplift, and alert monitoring.
 * Implemented data upload and data quality checks to simulate a real company data ingestion workflow.
 * Designed the dashboard for business users, with clear KPIs, charts, recommendations, and operational alerts.
-
----
-
-## Screenshots
-
-<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 47 00" src="https://github.com/user-attachments/assets/f437907b-8051-4397-81a6-3d873b036002" />
-<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 48 24" src="https://github.com/user-attachments/assets/3863f0b6-80f0-46a2-a20d-489c34a231bd" />
-<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 48 14" src="https://github.com/user-attachments/assets/00a0842d-2291-42bd-8700-c00d90ece9f5" />
-<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 48 04" src="https://github.com/user-attachments/assets/74e305fe-b8e7-46eb-99a3-a83664aa7e9f" />
-<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 49 34" src="https://github.com/user-attachments/assets/94766dd6-ee2e-40d1-b25f-4018da8b2e5b" />
-<img width="1721" height="874" alt="Screenshot 2026-07-04 at 12 46 52" src="https://github.com/user-attachments/assets/5b0b7053-b9db-4365-a085-76a861fb2000" />
 
 ---
 
